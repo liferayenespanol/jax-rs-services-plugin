@@ -1,0 +1,2 @@
+contextPaths=/servicios
+jaxRsServiceFilterStrings=(component.name=jax.rs.services.plugin.application.JaxRsServicesPluginApplication)
